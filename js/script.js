@@ -227,9 +227,9 @@ Frameworks & Libraries: React (learning), Node.js (exploring)
 Tools & Environments: Git, GitHub, VS Code, Linux Terminal`,
 
     'projects': `1. Personal Portfolio Website (HTML5, Modern CSS, JavaScript)
-2. C++ CLI Task & Habit Manager (C++17, File I/O, OOP)
-3. Sorting Algorithm Visualizer (Vanilla JS, Canvas API)
-4. DevLog & Student Resource Hub (Modern Web)`,
+2. Modern Scientific & Standard Calculator (Web Audio, Math Parser, History)
+3. C++ CLI Task & Habit Manager (C++17, File I/O, OOP)
+4. Sorting Algorithm Visualizer (Vanilla JS, Canvas API)`,
 
     'education': `• Degree: Bachelor of Technology (B.Tech) in CSE (2026 - 2030)
 • Senior Secondary (XII): SS Adarsh Convent School (Science - PCM + CS)
